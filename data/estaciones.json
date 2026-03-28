@@ -1,0 +1,7 @@
+{
+  "Las Americas": {"zona": "residencial", "x": 0, "y": 10},
+  "El Jazmin": {"zona": "residencial", "x": 5, "y": 8},
+  "Aguaclara": {"zona": "comercial", "x": 10, "y": 10},
+  "Fatima": {"zona": "residencial", "x": 0, "y": 5},
+  "San Antonio": {"zona": "comercial", "x": 10, "y": 0}
+}

@@ -1,0 +1,10 @@
+[
+  {"origen": "Las Americas", "destino": "El Jazmin", "distancia": 5},
+  {"origen": "Las Americas", "destino": "Fatima", "distancia": 7},
+  {"origen": "El Jazmin", "destino": "Aguaclara", "distancia": 4},
+  {"origen": "El Jazmin", "destino": "San Antonio", "distancia": 6},
+  {"origen": "Aguaclara", "destino": "San Antonio", "distancia": 3},
+  {"origen": "Fatima", "destino": "San Antonio", "distancia": 5},
+  {"origen": "Las Americas", "destino": "Aguaclara", "distancia": 8},
+  {"origen": "Fatima", "destino": "El Jazmin", "distancia": 6}
+]
