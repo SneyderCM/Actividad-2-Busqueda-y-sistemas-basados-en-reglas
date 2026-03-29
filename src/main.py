@@ -7,8 +7,7 @@ def mostrar_menu():
     print("\n" + "="*60)
     print("🚌 SISTEMA INTELIGENTE DE RUTAS - TRANSPORTE MASIVO")
     print("="*60)
-    print("Basado en Benítez (2014) - Capítulos 2, 3, 9")
-    print("="*60)
+
 
 def main():
     """Función principal del sistema"""
